@@ -1,2 +1,2 @@
-RingbitCar.init_wheel(AnalogPin.P0, AnalogPin.P1)
+RingbitCar.init_wheel(AnalogPin.P2, AnalogPin.P0)
 RingbitCar.forward()
